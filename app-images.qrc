@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/messageIcon</file>
+        <file>resources/messageIcon.jpg</file>
+        <file>resources/profile-icon.webp</file>
+        <file>resources/profileIcon.jpg</file>
+        <file>resources/settings-icon.jpg</file>
+        <file>resources/post1</file>
+        <file>resources/post2</file>
+        <file>resources/post3</file>
+        <file>resources/search-icon.png</file>
+        <file>resources/nack-button</file>
+        <file>resources/comment-icon</file>
+        <file>resources/like-icon</file>
+        <file>resources/addPost.png</file>
+    </qresource>
+</RCC>

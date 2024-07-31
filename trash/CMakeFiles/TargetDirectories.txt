@@ -1,0 +1,8 @@
+/home/mohamed/social-media-app/CMakeFiles/social-media-app.dir
+/home/mohamed/social-media-app/CMakeFiles/edit_cache.dir
+/home/mohamed/social-media-app/CMakeFiles/rebuild_cache.dir
+/home/mohamed/social-media-app/CMakeFiles/list_install_components.dir
+/home/mohamed/social-media-app/CMakeFiles/install.dir
+/home/mohamed/social-media-app/CMakeFiles/install/local.dir
+/home/mohamed/social-media-app/CMakeFiles/install/strip.dir
+/home/mohamed/social-media-app/CMakeFiles/social-media-app_autogen.dir

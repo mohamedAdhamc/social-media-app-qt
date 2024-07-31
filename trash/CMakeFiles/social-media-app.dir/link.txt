@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/social-media-app.dir/social-media-app_autogen/mocs_compilation.cpp.o CMakeFiles/social-media-app.dir/main.cpp.o CMakeFiles/social-media-app.dir/mainwindow.cpp.o -o social-media-app  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 
